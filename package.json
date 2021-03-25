@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.21.1",
+    "date-fns": "^2.19.0",
+    "esbuild": "^0.9.7",
+    "socket.io-client": "^4.0.0"
+  }
+}
